@@ -1,3 +1,12 @@
+**DEMO VIDEO**
+
+
+
+https://github.com/user-attachments/assets/db56b1d1-513a-4e6f-9545-c213cf3c3c63
+
+
+
+
 The Student Performance Dataset is a dataset designed to examine the factors influencing academic student performance. The dataset consists of 10,000 student records, with each record containing information about various predictors and a performance index.
 
 A) Variables:
