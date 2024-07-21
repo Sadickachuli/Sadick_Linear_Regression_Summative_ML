@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains a model for predicting student performance based on a synthetic dataset. The model analyzes various factors influencing academic performance and predicts a performance index based on input features.
+This repository contains a model for predicting student performance based on a dataset. The model analyzes various factors influencing academic performance and predicts a performance index based on input features.
 
 ### About the Dataset
 
