@@ -50,6 +50,11 @@ To get predictions from the model, make a POST request to the endpoint with the 
   "predicted_performance_index": value
 }
 
+```
 
+Testing the API Using Swagger UI
+You can also test the API using Swagger UI, which provides an interactive documentation interface. Visit the following URL to access it:
 
+[API Documentation](https://fast-api-1-5td2.onrender.com/docs#/default/make_prediction_predict_post)
 
+Here you can input your data and directly see the predictions returned by the API.
