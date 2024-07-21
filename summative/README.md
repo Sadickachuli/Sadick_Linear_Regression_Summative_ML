@@ -27,6 +27,13 @@ The publicly available API endpoint for accessing the student performance predic
 
 **API Endpoint URL:** `https://fast-api-1-5td2.onrender.com/predict`
 
+# Demo Video
+
+
+https://github.com/user-attachments/assets/fb9067d1-7b0f-4295-86c8-e70d3df73ee3
+
+
+
 ### Request
 
 To get predictions from the model, make a POST request to the endpoint with the following JSON payload:
@@ -45,9 +52,6 @@ To get predictions from the model, make a POST request to the endpoint with the 
   "predicted_performance_index": value
 }
 
-# Video
 
-
-https://github.com/user-attachments/assets/86ed1f20-861e-4bf6-bec8-3463462d2dfd
 
 
