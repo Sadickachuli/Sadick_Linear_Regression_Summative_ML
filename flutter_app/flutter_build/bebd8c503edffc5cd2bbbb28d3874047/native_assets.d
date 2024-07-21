@@ -1,0 +1,1 @@
+ C:\\Users\\hp\\StudioProjects\\student_performance_index_predictor\\.dart_tool\\flutter_build\\bebd8c503edffc5cd2bbbb28d3874047\\native_assets.yaml: 
