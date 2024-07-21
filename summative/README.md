@@ -23,7 +23,7 @@ The Student Performance Dataset is designed to examine the factors influencing a
 
 The publicly available API endpoint for accessing the student performance prediction model is:
 
-**API Endpoint URL:** `https://fast-api-1-5td2.onrender.com/predict`
+**API Endpoint URL:** https://fast-api-1-5td2.onrender.com/predict
 
 # Demo Video
 
