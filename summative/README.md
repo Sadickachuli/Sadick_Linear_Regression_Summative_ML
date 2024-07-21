@@ -19,8 +19,6 @@ The Student Performance Dataset is designed to examine the factors influencing a
 **Target Variable:**
 - **Performance Index:** A measure of the overall performance of each student. The performance index represents the student's academic performance and is rounded to the nearest integer. It ranges from 10 to 100, with higher values indicating better performance.
 
-**Note:** This dataset is synthetic and created for illustrative purposes. The relationships between the variables and the performance index may not reflect real-world scenarios.
-
 ## API Endpoint
 
 The publicly available API endpoint for accessing the student performance prediction model is:
